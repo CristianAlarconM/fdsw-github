@@ -9,7 +9,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("/assets/img/yo.jpeg");
+  background-image: url("assets/img/yo.jpeg");
   background-repeat: no-repeat;
   background-size: contain;
   border: solid 1px blue;
